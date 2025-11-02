@@ -206,7 +206,7 @@ img {
     min-height: 90vh; /* Taller hero */
     padding-top: var(--navbar-height);
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://placehold.co/1920x1080/8aa899/fdfcf9?text=The+Grove+Escape') no-repeat center center/cover;
+    background: url('images/hero.png') no-repeat center center/cover;
 }
 
 .hero-content {
